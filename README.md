@@ -3,7 +3,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://i.ibb.co/vLr3s62/9230af94-e390-4873-9502-33167e8a4b79.jpg"  width="650" height="600">
+<img src = "https://i.ibb.co/RSH6Q7N/Thenu-MD-new-card.png"  width="" height="">
 </img>
 <p align="center">  
   
