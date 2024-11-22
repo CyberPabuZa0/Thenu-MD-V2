@@ -40,13 +40,17 @@
  
 ## SETUP
 
+ <p align="left">1. PAIR
+    <br>
+<a href='https://express-pairing-code2-1.onrender.com/' target="_blank"><img alt='PAIR' src='https://img.shields.io/badge/PAIR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+
 
  <p align="left">1. GO TO WEBSITE
     <br>
 <a href='https://thenu-ofc-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
  ```SH
-> GO TO WEBSITE FOR DEPLOY & GET SESSION_ID
+> GO TO WEBSITE FOR DEPLOY & GET SESSION_ID https://express-pairing-code2-1.onrender.com/
 
  ```
 
