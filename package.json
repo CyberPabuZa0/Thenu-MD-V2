@@ -1,14 +1,15 @@
 {
-  "name": "Thenu-MD",
+  "name": "Thenu-MD-V2",
   "version": "1.0.0",
   "description": "A Thenu-MD WhatsApp bot created using Node.js📡",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Thenu-MD",
-    "stop": "pm2 stop Thenu-MD",
-    "restart": "pm2 restart Thenu-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Thenu-MD-V2",
+    "stop": "pm2 stop Thenu-MD-V2",
+    "restart": "pm2 restart Thenu-MD-V2"
   },
   "dependencies": {
+     "whatsapp-web.js": "^1.25.0", 
     "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
